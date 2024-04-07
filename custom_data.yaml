@@ -1,0 +1,6 @@
+train: D:/Dancing/train_data/images/train/  
+val: D:/Dancing/train_data/images/val/  
+test:  D:/Dancing/test_data/images/ (optional)
+
+nc: 1
+names: ['Person']
