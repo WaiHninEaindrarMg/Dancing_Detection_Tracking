@@ -65,5 +65,5 @@ This is result video (multi-person dancing detection and tracking results when o
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE.md) - see the LICENSE.md file for details.
+This project is licensed under the [MIT License](LICENSE) - see the LICENSE file for details.
 
